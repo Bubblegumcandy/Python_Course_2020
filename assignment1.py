@@ -128,7 +128,7 @@ clear()
 
 # Temp name holder for troubleshooting, needs to be commented out
 
-name = "Rick"
+#name = "Rick"
 
 # Initiating the main menu
 
@@ -244,7 +244,7 @@ while True:
             print(gap*2)
             
     else:
-        print(f"The simpulator has successfully generated {joke_counter} jokes. ")
+        print(f"The simulator has successfully generated {joke_counter} jokes. ")
         break
 
 sleep(3)
