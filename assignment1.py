@@ -27,9 +27,6 @@ def clear():
     else:
         _ = system('clear')
 
-# Creating function for pulling random jokes from the Holypython official jokes API
-
-
 
 # Creating variable for making a small gap between text
 
